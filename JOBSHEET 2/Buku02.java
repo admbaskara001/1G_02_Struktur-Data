@@ -1,3 +1,5 @@
+package Jobsheet 2;
+
 public class Buku02 {
     String judul, pengarang;
     int halaman, stok, harga;
